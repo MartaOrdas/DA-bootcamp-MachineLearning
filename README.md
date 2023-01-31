@@ -6,13 +6,13 @@ Repositorio del módulo 3, sprint 1.
 Este repositorio contiene los ejercicios del módulo 3, sprint 1, del Bootcamp de Análisis de Datos de Adalab en que se trabajan las temáticas de Regresión Lineal y Regresión Logística.
 
 
-Indice computer
+Indice :computer:
 
     1-Regresión Lineal
     2-Regresión Logística
     3-Integrantes
 
-1.Regresión Lineal ruler
+1.Regresión Lineal :ruler:
 
 1- Intro a Machine Learning
 2- Test Estadísticos
@@ -28,7 +28,7 @@ Indice computer
 12- Random Forest
 
 
-2. Regresión Logística lightbulb
+2. Regresión Logística :lightbulb:
 
 1- EDA
 2- Preprocesado
@@ -38,6 +38,6 @@ Indice computer
 6- Random Forest
 
 
-3. Integrantes star
+3. Integrantes :star:
 
 *Marina *Marta

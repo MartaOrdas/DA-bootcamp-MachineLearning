@@ -12,7 +12,7 @@ Indice :computer:
     2-Regresión Logística
     3-Integrantes
 
-1.Regresión Lineal :ruler:
+1.Regresión Lineal 📐
 
 1- Intro a Machine Learning
 2- Test Estadísticos
@@ -28,7 +28,7 @@ Indice :computer:
 12- Random Forest
 
 
-2. Regresión Logística :lightbulb:
+2. Regresión Logística 💠
 
 1- EDA
 2- Preprocesado

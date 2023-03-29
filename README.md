@@ -1,4 +1,4 @@
-# DA-promoC-Mod3-sprint1-MarinayMarta
+# Machine Learning
 
 
 Repositorio del módulo 3, sprint 1.
